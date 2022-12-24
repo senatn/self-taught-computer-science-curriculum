@@ -4,7 +4,7 @@ This comprehensive curriculum comprises of a selection of high-quality, freely a
 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
-[A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/#Introduction%20to%20Computational%20Thinking)
+[A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 
 Assembled on December 24, 2022, the curriculum will continually updated until I'm done with it. To ensure that the list remains current and relevant, I will carefully curate the selection of courses by only including the most useful and up-to-date among similar options.
 
@@ -92,7 +92,7 @@ CS 162: Operating Systems and Systems Programming | Berkeley | [Youtube](https:/
 Course | School | Videos | Notes | Year |
 :-- | :--: | :--: | :--: | :--:
 CS 186 Introduction to Database Systems | Berkeley | [Youtube](https://www.youtube.com/@CS186Berkeley/videos) | [cs186berkeley.net](https://cs186berkeley.net/) | - |
-15-445/645 : Intro to Database Systems | CMU | [Youtube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) | [cmu.edu](https://15445.courses.cs.cmu.edu/fall2022/) | 2022 |
+15-445/645 Intro to Database Systems | CMU | [Youtube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) | [cmu.edu](https://15445.courses.cs.cmu.edu/fall2022/) | 2022 |
 15-721 Advanced Database Systems | CMU | [Youtube](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O) | [cmu.edu](https://15721.courses.cs.cmu.edu/spring2020/) | 2020 |
 
 # Languages and Compilers
