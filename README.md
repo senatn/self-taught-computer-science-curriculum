@@ -19,7 +19,7 @@ Course | School | Videos | Notes | Year |
 :-- | :--: | :--: | :--: | :--:
 CS50’s Introduction to Computer Science | Harvard | [Youtube](https://www.youtube.com/playlist?list=PLeLzIg9tqA3LQW-RiFA8zJUBcTKqUVLMU) | [harvard.edu](https://cs50.harvard.edu/x/2022/) | 2022 |
 CS50’s Introduction to Programming with Python | Harvard | [Youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V) | [harvard.edu](https://cs50.harvard.edu/python/2022/) | 2022 |
-CS 61A Structure and Interpretation of Computer Programs | Berkeley | [Youtube](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9) | - | 2010 |
+CS 61A Structure and Interpretation of Computer Programs | Berkeley | [Youtube](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9) | [berkeley.edu](https://inst.eecs.berkeley.edu//~cs61as/reader/) | 2010 |
 CS 61A Structure and Interpretation of Computer Programs | Berkeley | [Youtube](https://www.youtube.com/playlist?list=PLx38hZJ5RLZc2lUzubnMKpnniy8cHjD3T) | [berkeley.edu](https://inst.eecs.berkeley.edu/~cs61a/fa19/resources.html) | 2019 |
 The Missing Semester of Your CS Education | MIT | [Youtube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) | [mit.edu](https://missing.csail.mit.edu/) | 2020 |
 
